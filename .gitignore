@@ -1,0 +1,22 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# 依赖与构建产物
+node_modules/
+dist/
+_build/
+
+# 临时与备份文件
+_backup/
+_shots/
+*.tmp
+*.bak
+_download_imgs.py
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
