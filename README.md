@@ -47,6 +47,14 @@ npx serve .
 
 浏览器访问 <http://localhost:8000>。
 
+## 在线访问与代码仓库
+
+- **在线网址（GitHub Pages）**：<https://asuka060108.github.io/hengyang-travel/>
+- **Gitee 仓库（主仓库）**：<https://gitee.com/ink060108/hengyang-travel>
+- **GitHub 镜像仓库**：<https://github.com/asuka060108/hengyang-travel>
+
+> Gitee Pages 免费静态托管服务已停止，故网站部署在 GitHub Pages；源码同时推送到 Gitee 与 GitHub 两个远程仓库。
+
 ## 数据与素材说明
 
 - 城市数据与门票价格来自湖南省人民政府、湖南省发改委、南岳区人民政府等公开资料（2025 年），仅供参考，出行请以景区官方公示为准。
